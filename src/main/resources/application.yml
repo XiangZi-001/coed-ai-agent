@@ -2,7 +2,7 @@ spring:
   application:
     name: code-ai-agent
 server:
-  port: 8888
+  port: 8123
   servlet:
     context-path: /api
 
